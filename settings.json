@@ -1,0 +1,12 @@
+{
+    "typescript.validate.enable": false,
+    "javascript.validate.enable": true,
+    "typescript.suggest.enabled": false,
+    "javascript.suggest.enabled": true,
+    "files.associations": {
+      "*.js": "javascript"
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    }
+  }

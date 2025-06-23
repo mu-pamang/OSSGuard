@@ -1,0 +1,13 @@
+celery==5.2.7
+kombu==5.2.4
+amqp==5.1.1
+six>=1.16.0
+python-dateutil>=2.8.2
+vine>=5.1.0,<6.0
+mitreapi
+fastapi
+uvicorn
+requests
+redis
+python-dotenv
+yara-python
