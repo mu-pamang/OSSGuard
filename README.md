@@ -1,13 +1,14 @@
 ## 🛡️ OSS Guard
 
-**OSS Guard**는 GitHub 오픈소스 프로젝트를 분석하여 보안 취약점과 패키지 위험성을 시각화하는 도구. React + FastAPI + Redis 기반으로 작동하며, Docker Compose로 손쉽게 실행 가능
+- **OSS Guard**는 GitHub 오픈소스 프로젝트를 분석하여 보안 취약점과 패키지 위험성을 시각화하는 도구.
+- React + FastAPI + Redis 기반으로 작동하며, Docker Compose로 손쉽게 실행 가능
 
 ## 🛠️ 기술 스택
 
-Frontend: React.js - 모던한 사용자 인터페이스
-Backend: FastAPI -  Python 웹 프레임워크
-Cache: Redis - 빠른 분석 결과 저장
-Deploy: Docker Compose - 원클릭 배포
+- Frontend: React.js - 모던한 사용자 인터페이스
+- Backend: FastAPI -  Python 웹 프레임워크
+- Cache: Redis - 빠른 분석 결과 저장
+- Deploy: Docker Compose - 원클릭 배포
 
 ## 🚀 실행 방법
 
